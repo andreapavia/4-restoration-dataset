@@ -13,49 +13,67 @@
             "name": "Bomaki",
             "owner": "",
             "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
+              "location": "7",
+              "menu": "5",
+              "service": "5",
+              "bill": "5"
+            },
+            "masterRating": {
+              "location": "5",
+              "menu": "4",
+              "service": "3",
+              "bill": "5"
             }
           },
           {
             "name": "la Gnoccheria",
             "owner": "",
             "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
+              "location": "6",
+              "menu": "6",
+              "service": "7",
+              "bill": "8"
+            },
+            "masterRating": {
+              "location": "4",
+              "menu": "2",
+              "service": "2",
+              "bill": "2"
             }
           },
           {
             "name": "Smøøshi",
             "owner": "",
             "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
+              "location": "9",
+              "menu": "6",
+              "service": "6",
+              "bill": "9"
+            },
+            "masterRating": {
+              "location": "5",
+              "menu": "4",
+              "service": "3",
+              "bill": "2"
             }
           },
           {
             "name": "The Boidem",
-            "owner": "",
+            "owner": "9",
             "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
+              "location": "9",
+              "menu": "7",
+              "service": "5",
+              "bill": "5"
+            },
+            "masterRating": {
+              "location": "4",
+              "menu": "3",
+              "service": "3",
+              "bill": "2"
             }
           }
-        ],
-        "masterRating": {
-          "location": "",
-          "menu": "",
-          "service": "",
-          "bill": ""
-        }
+        ]
       },
       {
         "location": "Romagna",
@@ -69,9 +87,15 @@
             "name": "La Saluma",
             "owner": "",
             "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
+              "location": "3",
+              "menu": "14",
+              "service": "13",
+              "bill": "13"
+            },
+            "masterRating": {
+              "location": "0",
+              "menu": "5",
+              "service": "1",
               "bill": ""
             }
           },
@@ -79,30 +103,48 @@
             "name": "La Brasserie",
             "owner": "",
             "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
+              "location": "14",
+              "menu": "11",
+              "service": "12",
+              "bill": "12"
+            },
+            "masterRating": {
+              "location": "5",
+              "menu": "3",
+              "service": "4",
+              "bill": "2"
             }
           },
           {
             "name": "Kiosquito 46",
             "owner": "",
             "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
+              "location": "13",
+              "menu": "13",
+              "service": "11",
+              "bill": "13"
+            },
+            "masterRating": {
+              "location": "5",
+              "menu": "4",
+              "service": "2",
+              "bill": "4"
             }
           },
           {
             "name": "La Mi Mama",
             "owner": "",
             "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
+              "location": "10",
+              "menu": "7",
+              "service": "11",
+              "bill": "11"
+            },
+            "masterRating": {
+              "location": "3",
+              "menu": "3",
+              "service": "4",
+              "bill": "4"
             }
           }
         ]
@@ -123,12 +165,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Stano",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -143,12 +197,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Abbondanza lucana",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -173,12 +239,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "La Locanda del fu Giovanni",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -193,12 +271,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Anthony Marra",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -223,12 +313,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "La Maisonnette",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -243,12 +345,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Romeow Cat Bistrot",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -273,12 +387,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": " Malga Millegrobbe",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -293,12 +419,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "La stua de Zach",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -324,12 +462,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Le Plaisir du Vin",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -344,12 +494,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Dal Greco",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -373,12 +535,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "La Croisette",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -393,12 +567,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Al Piccolo Teatro",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -422,12 +608,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Lemokò",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -442,12 +640,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Fuocolento",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -471,12 +681,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Sotto Sale",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -491,12 +713,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "MuMa",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -520,12 +754,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Osteria vecchio borgo",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -540,12 +786,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Ristorantino L'Oca Nera",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -569,12 +827,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Lou Bequet",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -589,12 +859,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Signori di Avise",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -618,12 +900,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Shaolin state of harmony",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -638,12 +932,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Bottega Ghiotta Gourmet",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -667,12 +973,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Concettina ai Tre Santi",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -687,12 +1005,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Pizza Gourmet",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -716,12 +1046,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Hosteria da Pantalla",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -736,12 +1078,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Duca di Orvieto",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -765,12 +1119,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Km0",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
@@ -785,12 +1151,24 @@
               "menu": "",
               "service": "",
               "bill": ""
+            },
+            "masterRating": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
             }
           },
           {
             "name": "Officina del Gusto",
             "owner": "",
             "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            },
+            "masterRating": {
               "location": "",
               "menu": "",
               "service": "",
