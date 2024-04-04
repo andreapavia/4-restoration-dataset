@@ -1,0 +1,806 @@
+{
+  "1": {
+    "episodes": [
+      {
+        "location": "Milano",
+        "theme": "Miglior ristorante post-etnico di Milano",
+        "firstAirdate": "2015-03-04",
+        "listeners": "197086",
+        "winner": "Smøøshi",
+        "scale": "5",
+        "participants": [
+          {
+            "name": "Bomaki",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "la Gnoccheria",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Smøøshi",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "The Boidem",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "masterRating": {
+          "location": "",
+          "menu": "",
+          "service": "",
+          "bill": ""
+        }
+      },
+      {
+        "location": "Romagna",
+        "theme": "Miglior ristorante della Romagna",
+        "firstAirdate": "2015-03-11",
+        "listeners": "188293",
+        "winner": "Kiosquito 46",
+        "scale": "10",
+        "participants": [
+          {
+            "name": "La Saluma",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "La Brasserie",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Kiosquito 46",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "La Mi Mama",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ]
+      },
+      {
+        "location": "Matera",
+        "theme": "Miglior ristorante granitico di Matera",
+        "firstAirdate": "2015-03-18",
+        "listeners": "165484",
+        "winner": "Stano",
+        "scale": "10",
+        "participants": [
+          {
+            "name": "900 restaurant",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Stano",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Il mare nei sassi",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Abbondanza lucana",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ]
+      },
+      {
+        "location": "Puglia",
+        "theme": "Miglior ristorante a conduzione familiare della Puglia",
+        "firstAirdate": "2015-03-25",
+        "listeners": "239808",
+        "winner": "Farmacia dei Sani",
+        "scale": "10",
+        "participants": [
+          {
+            "name": "Farmacia dei Sani",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "La Locanda del fu Giovanni",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Torre di Angelucco",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Anthony Marra",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ]
+      },
+      {
+        "location": "Roma",
+        "theme": "Miglior ristorante stravagante di Roma",
+        "firstAirdate": "2015-04-01",
+        "listeners": "294115",
+        "winner": "Romeow Cat Bistrot",
+        "scale": "10",
+        "participants": [
+          {
+            "name": "Teatro Centrale",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "La Maisonnette",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Ristoaereo",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Romeow Cat Bistrot",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ]
+      },
+      {
+        "location": "Trentino-Alto adige",
+        "theme": "Miglior ristorante in alta quota del Trentino",
+        "firstAirdate": "2015-04-08",
+        "listeners": "315838",
+        "winner": "Rifugio Maranza",
+        "scale": "10",
+        "participants": [
+          {
+            "name": "Rifugio Maranza",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": " Malga Millegrobbe",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Fienile Monte",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "La stua de Zach",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "2": {
+    "episodes": [
+      {
+        "location": "Promontorio dell'Argentario",
+        "theme": "Miglior ristorante con vista sull'Argentario",
+        "firstAirDate": "10 novembre 2015",
+        "participants": [
+          {
+            "name": "Gourmet Con Gusto",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Le Plaisir du Vin",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Tuscany Bay",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Dal Greco",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "Gourmet Con Gusto",
+        "scale": "10"
+      },
+      {
+        "location": "Marche",
+        "theme": "Miglior ristorante delle Marche gestito da marito e moglie",
+        "firstAirDate": "17 novembre 2015",
+        "participants": [
+          {
+            "name": "Il Gambero da Tato",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "La Croisette",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Il Desco",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Al Piccolo Teatro",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "La Croisette",
+        "scale": "10"
+      },
+      {
+        "location": "Ferrara",
+        "theme": "Miglior ristorante di cucina sperimentale di Ferrara",
+        "firstAirDate": "24 novembre 2015",
+        "participants": [
+          {
+            "name": "La Regina di Cuori",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Lemokò",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Apelle",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Fuocolento",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "Apelle",
+        "scale": "10"
+      },
+      {
+        "location": "Riviera delle Palme",
+        "theme": "Miglior ristorante al femminile della Riviera delle Palme",
+        "firstAirDate": "1º dicembre 2015",
+        "participants": [
+          {
+            "name": "Il Ritorno di Baianita",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Sotto Sale",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "L’Osteria del Castel Gavone",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "MuMa",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "MuMa",
+        "scale": "10"
+      },
+      {
+        "location": "Cuneo",
+        "theme": "Miglior ristorante carnivoro di Cuneo",
+        "firstAirDate": "8 dicembre 2015",
+        "participants": [
+          {
+            "name": "Osteria dei colori",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Osteria vecchio borgo",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "La Mucca pazza",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Ristorantino L'Oca Nera",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "Ristorantino L'Oca Nera",
+        "scale": "10"
+      },
+      {
+        "location": "Aosta",
+        "theme": "Miglior ristorante con cena di Natale della Valle d'Aosta",
+        "firstAirDate": "15 dicembre 2015",
+        "participants": [
+          {
+            "name": "Ristorante Giuliani",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Lou Bequet",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Lo Riondet",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Signori di Avise",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "Signori di Avise",
+        "scale": "10"
+      },
+      {
+        "location": "Milano",
+        "theme": "Miglior ristorante sano, buono ed ecosostenibile di Milano",
+        "firstAirDate": "12 gennaio 2016",
+        "participants": [
+          {
+            "name": "Capra e cavoli",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Shaolin state of harmony",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Ghea",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Bottega Ghiotta Gourmet",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "Ghea",
+        "scale": "10"
+      },
+      {
+        "location": "Napoli",
+        "theme": "Miglior pizzeria innovativa di Napoli",
+        "firstAirDate": "19 gennaio 2016",
+        "participants": [
+          {
+            "name": "Fresco",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Concettina ai Tre Santi",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "La Figlia del Presidente",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Pizza Gourmet",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "Pizza Gourmet",
+        "scale": "10"
+      },
+      {
+        "location": "Etruria",
+        "theme": "Miglior trattoria di confine",
+        "firstAirDate": "26 gennaio 2016",
+        "participants": [
+          {
+            "name": "Da Gianfranco",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Hosteria da Pantalla",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Da Ciccio alla Capannaccia",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Duca di Orvieto",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "Da Ciccio alla Capannaccia",
+        "scale": "10"
+      },
+      {
+        "location  ": "Catania",
+        "theme": "Miglior ristorante under 30 di Catania",
+        "firstAirDate": "2 febbraio 2016",
+        "participants": [
+          {
+            "name": "Buatta",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Km0",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Corte di Biscari",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          },
+          {
+            "name": "Officina del Gusto",
+            "owner": "",
+            "ratings": {
+              "location": "",
+              "menu": "",
+              "service": "",
+              "bill": ""
+            }
+          }
+        ],
+        "winner": "Km0",
+        "scale": "10"
+      }
+    ]
+  }
+}
