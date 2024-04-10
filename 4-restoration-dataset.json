@@ -1,1184 +1,718 @@
-{
-  "1": {
-    "episodes": [
-      {
-        "location": "Milano",
-        "theme": "Miglior ristorante post-etnico di Milano",
-        "firstAirdate": "2015-03-04",
-        "listeners": "197086",
-        "winner": "Smøøshi",
-        "scale": "5",
-        "participants": [
-          {
-            "name": "Bomaki",
-            "owner": "",
-            "ratings": {
-              "location": "7",
-              "menu": "5",
-              "service": "5",
-              "bill": "5"
-            },
-            "masterRating": {
-              "location": "5",
-              "menu": "4",
-              "service": "3",
-              "bill": "5"
-            }
-          },
-          {
-            "name": "la Gnoccheria",
-            "owner": "",
-            "ratings": {
-              "location": "6",
-              "menu": "6",
-              "service": "7",
-              "bill": "8"
-            },
-            "masterRating": {
-              "location": "4",
-              "menu": "2",
-              "service": "2",
-              "bill": "2"
-            }
-          },
-          {
-            "name": "Smøøshi",
-            "owner": "",
-            "ratings": {
-              "location": "9",
-              "menu": "6",
-              "service": "6",
-              "bill": "9"
-            },
-            "masterRating": {
-              "location": "5",
-              "menu": "4",
-              "service": "3",
-              "bill": "2"
-            }
-          },
-          {
-            "name": "The Boidem",
-            "owner": "9",
-            "ratings": {
-              "location": "9",
-              "menu": "7",
-              "service": "5",
-              "bill": "5"
-            },
-            "masterRating": {
-              "location": "4",
-              "menu": "3",
-              "service": "3",
-              "bill": "2"
-            }
-          }
-        ]
-      },
-      {
-        "location": "Romagna",
-        "theme": "Miglior ristorante della Romagna",
-        "firstAirdate": "2015-03-11",
-        "listeners": "188293",
-        "winner": "Kiosquito 46",
-        "scale": "10",
-        "participants": [
-          {
-            "name": "La Saluma",
-            "owner": "",
-            "ratings": {
-              "location": "3",
-              "menu": "14",
-              "service": "13",
-              "bill": "13"
-            },
-            "masterRating": {
-              "location": "0",
-              "menu": "5",
-              "service": "1",
-              "bill": ""
-            }
-          },
-          {
-            "name": "La Brasserie",
-            "owner": "",
-            "ratings": {
-              "location": "14",
-              "menu": "11",
-              "service": "12",
-              "bill": "12"
-            },
-            "masterRating": {
-              "location": "5",
-              "menu": "3",
-              "service": "4",
-              "bill": "2"
-            }
-          },
-          {
-            "name": "Kiosquito 46",
-            "owner": "",
-            "ratings": {
-              "location": "13",
-              "menu": "13",
-              "service": "11",
-              "bill": "13"
-            },
-            "masterRating": {
-              "location": "5",
-              "menu": "4",
-              "service": "2",
-              "bill": "4"
-            }
-          },
-          {
-            "name": "La Mi Mama",
-            "owner": "",
-            "ratings": {
-              "location": "10",
-              "menu": "7",
-              "service": "11",
-              "bill": "11"
-            },
-            "masterRating": {
-              "location": "3",
-              "menu": "3",
-              "service": "4",
-              "bill": "4"
-            }
-          }
-        ]
-      },
-      {
-        "location": "Matera",
-        "theme": "Miglior ristorante granitico di Matera",
-        "firstAirdate": "2015-03-18",
-        "listeners": "165484",
-        "winner": "Stano",
-        "scale": "10",
-        "participants": [
-          {
-            "name": "900 restaurant",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Stano",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Il mare nei sassi",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Abbondanza lucana",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ]
-      },
-      {
-        "location": "Puglia",
-        "theme": "Miglior ristorante a conduzione familiare della Puglia",
-        "firstAirdate": "2015-03-25",
-        "listeners": "239808",
-        "winner": "Farmacia dei Sani",
-        "scale": "10",
-        "participants": [
-          {
-            "name": "Farmacia dei Sani",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "La Locanda del fu Giovanni",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Torre di Angelucco",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Anthony Marra",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ]
-      },
-      {
-        "location": "Roma",
-        "theme": "Miglior ristorante stravagante di Roma",
-        "firstAirdate": "2015-04-01",
-        "listeners": "294115",
-        "winner": "Romeow Cat Bistrot",
-        "scale": "10",
-        "participants": [
-          {
-            "name": "Teatro Centrale",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "La Maisonnette",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Ristoaereo",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Romeow Cat Bistrot",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ]
-      },
-      {
-        "location": "Trentino-Alto adige",
-        "theme": "Miglior ristorante in alta quota del Trentino",
-        "firstAirdate": "2015-04-08",
-        "listeners": "315838",
-        "winner": "Rifugio Maranza",
-        "scale": "10",
-        "participants": [
-          {
-            "name": "Rifugio Maranza",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": " Malga Millegrobbe",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Fienile Monte",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "La stua de Zach",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ]
-      }
-    ]
-  },
-  "2": {
-    "episodes": [
-      {
-        "location": "Promontorio dell'Argentario",
-        "theme": "Miglior ristorante con vista sull'Argentario",
-        "firstAirDate": "10 novembre 2015",
-        "participants": [
-          {
-            "name": "Gourmet Con Gusto",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Le Plaisir du Vin",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Tuscany Bay",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Dal Greco",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "Gourmet Con Gusto",
-        "scale": "10"
-      },
-      {
-        "location": "Marche",
-        "theme": "Miglior ristorante delle Marche gestito da marito e moglie",
-        "firstAirDate": "17 novembre 2015",
-        "participants": [
-          {
-            "name": "Il Gambero da Tato",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "La Croisette",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Il Desco",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Al Piccolo Teatro",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "La Croisette",
-        "scale": "10"
-      },
-      {
-        "location": "Ferrara",
-        "theme": "Miglior ristorante di cucina sperimentale di Ferrara",
-        "firstAirDate": "24 novembre 2015",
-        "participants": [
-          {
-            "name": "La Regina di Cuori",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Lemokò",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Apelle",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Fuocolento",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "Apelle",
-        "scale": "10"
-      },
-      {
-        "location": "Riviera delle Palme",
-        "theme": "Miglior ristorante al femminile della Riviera delle Palme",
-        "firstAirDate": "1º dicembre 2015",
-        "participants": [
-          {
-            "name": "Il Ritorno di Baianita",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Sotto Sale",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "L’Osteria del Castel Gavone",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "MuMa",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "MuMa",
-        "scale": "10"
-      },
-      {
-        "location": "Cuneo",
-        "theme": "Miglior ristorante carnivoro di Cuneo",
-        "firstAirDate": "8 dicembre 2015",
-        "participants": [
-          {
-            "name": "Osteria dei colori",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Osteria vecchio borgo",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "La Mucca pazza",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Ristorantino L'Oca Nera",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "Ristorantino L'Oca Nera",
-        "scale": "10"
-      },
-      {
-        "location": "Aosta",
-        "theme": "Miglior ristorante con cena di Natale della Valle d'Aosta",
-        "firstAirDate": "15 dicembre 2015",
-        "participants": [
-          {
-            "name": "Ristorante Giuliani",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Lou Bequet",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Lo Riondet",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Signori di Avise",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "Signori di Avise",
-        "scale": "10"
-      },
-      {
-        "location": "Milano",
-        "theme": "Miglior ristorante sano, buono ed ecosostenibile di Milano",
-        "firstAirDate": "12 gennaio 2016",
-        "participants": [
-          {
-            "name": "Capra e cavoli",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Shaolin state of harmony",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Ghea",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Bottega Ghiotta Gourmet",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "Ghea",
-        "scale": "10"
-      },
-      {
-        "location": "Napoli",
-        "theme": "Miglior pizzeria innovativa di Napoli",
-        "firstAirDate": "19 gennaio 2016",
-        "participants": [
-          {
-            "name": "Fresco",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Concettina ai Tre Santi",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "La Figlia del Presidente",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Pizza Gourmet",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "Pizza Gourmet",
-        "scale": "10"
-      },
-      {
-        "location": "Etruria",
-        "theme": "Miglior trattoria di confine",
-        "firstAirDate": "26 gennaio 2016",
-        "participants": [
-          {
-            "name": "Da Gianfranco",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Hosteria da Pantalla",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Da Ciccio alla Capannaccia",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Duca di Orvieto",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "Da Ciccio alla Capannaccia",
-        "scale": "10"
-      },
-      {
-        "location  ": "Catania",
-        "theme": "Miglior ristorante under 30 di Catania",
-        "firstAirDate": "2 febbraio 2016",
-        "participants": [
-          {
-            "name": "Buatta",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Km0",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Corte di Biscari",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          },
-          {
-            "name": "Officina del Gusto",
-            "owner": "",
-            "ratings": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            },
-            "masterRating": {
-              "location": "",
-              "menu": "",
-              "service": "",
-              "bill": ""
-            }
-          }
-        ],
-        "winner": "Km0",
-        "scale": "10"
-      }
-    ]
-  }
-}
+[
+  [
+    {
+      "location": "Milano",
+      "theme": "Miglior ristorante post-etnico di Milano",
+      "firstAirDate": "4 marzo 2015"
+    },
+    {
+      "location": "Romagna",
+      "theme": "Miglior ristorante della Romagna",
+      "firstAirDate": "11 marzo 2015"
+    },
+    {
+      "location": "Matera",
+      "theme": "Miglior ristorante granitico di Matera",
+      "firstAirDate": "18 marzo 2015"
+    },
+    {
+      "location": "Puglia",
+      "theme": "Miglior ristorante a conduzione familiare della Puglia",
+      "firstAirDate": "25 marzo 2015"
+    },
+    {
+      "location": "Roma",
+      "theme": "Miglior ristorante stravagante di Roma",
+      "firstAirDate": "1º aprile 2015"
+    },
+    {
+      "location": "Trentino-Alto Adige",
+      "theme": "Miglior ristorante in alta quota del Trentino",
+      "firstAirDate": "8 aprile 2015"
+    }
+  ],
+  [
+    {
+      "location": "Promontorio dell'Argentario",
+      "theme": "Miglior ristorante con vista sull'Argentario",
+      "firstAirDate": "10 novembre 2015"
+    },
+    {
+      "location": "Marche",
+      "theme": "Miglior ristorante delle Marche gestito da marito e moglie",
+      "firstAirDate": "17 novembre 2015"
+    },
+    {
+      "location": "Ferrara",
+      "theme": "Miglior ristorante di cucina sperimentale di Ferrara",
+      "firstAirDate": "24 novembre 2015"
+    },
+    {
+      "location": "Riviera delle Palme",
+      "theme": "Miglior ristorante al femminile della Riviera delle Palme",
+      "firstAirDate": "1º dicembre 2015"
+    },
+    {
+      "location": "Cuneo",
+      "theme": "Miglior ristorante carnivoro di Cuneo",
+      "firstAirDate": "8 dicembre 2015"
+    },
+    {
+      "location": "Aosta",
+      "theme": "Valle d'Aosta",
+      "firstAirDate": "15 dicembre 2015"
+    },
+    {
+      "location": "Milano",
+      "theme": "Miglior ristorante sano, buono ed ecosostenibile di Milano",
+      "firstAirDate": "12 gennaio 2016"
+    },
+    {
+      "location": "Napoli",
+      "theme": "Miglior pizzeria innovativa di Napoli",
+      "firstAirDate": "19 gennaio 2016"
+    },
+    {
+      "location": "Etruria",
+      "theme": "Miglior trattoria di confine",
+      "firstAirDate": "26 gennaio 2016"
+    },
+    {
+      "location": "Catania",
+      "theme": "Miglior ristorante under 30 di Catania",
+      "firstAirDate": "2 febbraio 2016"
+    }
+  ],
+  [
+    {
+      "location": "Emilia",
+      "theme": "via Emilia",
+      "firstAirDate": "29 novembre 2016"
+    },
+    {
+      "location": "Lago di Garda",
+      "theme": "Miglior ristorante di cucina di lago",
+      "firstAirDate": "6 dicembre 2016"
+    },
+    {
+      "location": "Salento",
+      "theme": "masseria",
+      "firstAirDate": "13 dicembre 2016"
+    },
+    {
+      "location": "Provincia di Trento",
+      "theme": "Miglior ristorante con cenone di Natale più curioso del Trentino",
+      "firstAirDate": "20 dicembre 2016"
+    },
+    {
+      "location": "Londra",
+      "theme": "Miglior ristorante italiano del terzo millennio a Londra",
+      "firstAirDate": "27 dicembre 2016"
+    },
+    {
+      "location": "Trieste",
+      "theme": "Miglior ristorante di frontiera di Trieste",
+      "firstAirDate": "3 gennaio 2017"
+    },
+    {
+      "location": "Milano",
+      "theme": "Miglior griglieria di carne di Milano",
+      "firstAirDate": "10 gennaio 2017"
+    },
+    {
+      "location": "Novara",
+      "theme": "riso",
+      "firstAirDate": "17 gennaio 2017"
+    },
+    {
+      "location": "Alta Valtellina",
+      "theme": "Valtellina",
+      "firstAirDate": "24 gennaio 2017"
+    },
+    {
+      "location": "Torino",
+      "theme": "Miglior trattoria urbana di Torino",
+      "firstAirDate": "31 gennaio 2017"
+    }
+  ],
+  [
+    {
+      "location": "Genova",
+      "theme": "Caruggi",
+      "firstAirDate": "16 gennaio 2018",
+      "special": "Pesto alla genovese"
+    },
+    {
+      "location": "Pescara",
+      "theme": "Abruzzo",
+      "firstAirDate": "23 gennaio 2018",
+      "special": "Pesce fresco"
+    },
+    {
+      "location": "Bologna",
+      "theme": "Miglior osteria di Bologna",
+      "firstAirDate": "30 gennaio 2018",
+      "special": "Ragù alla bolognese"
+    },
+    {
+      "location": "Langhe",
+      "theme": "Miglior ristorante under 30 di Langhe e Roero",
+      "firstAirDate": "6 febbraio 2018",
+      "special": "Vitello tonnato"
+    },
+    {
+      "location": "Monaco di Baviera",
+      "theme": "Miglior ristorante di cucina italiana regionale a Monaco",
+      "firstAirDate": "13 febbraio 2018",
+      "special": "Carbonara"
+    },
+    {
+      "location": "Friuli",
+      "theme": "Miglior ristorante con cantina del Friuli",
+      "firstAirDate": "20 febbraio 2018",
+      "special": "Vino"
+    },
+    {
+      "location": "Acqualagna",
+      "theme": "Miglior ristorante di tartufo di Acqualagna",
+      "firstAirDate": "27 febbraio 2018",
+      "special": "Carne"
+    },
+    {
+      "location": "Bergamo",
+      "theme": "cucina bergamasca",
+      "firstAirDate": "6 marzo 2018",
+      "special": "Polenta"
+    },
+    {
+      "location": "Molise",
+      "theme": "cucina autentica del Molise",
+      "firstAirDate": "13 marzo 2018",
+      "special": "Caciocavallo"
+    },
+    {
+      "location": "Milano",
+      "theme": "Miglior pizzeria gourmet di Milano",
+      "firstAirDate": "20 marzo 2018",
+      "special": "pizza"
+    }
+  ],
+  [
+    {
+      "location": "Milano",
+      "theme": "Miglior cenone di Capodanno in un ristorante straniero",
+      "firstAirDate": "1º gennaio 2019",
+      "special": "Manzo"
+    },
+    {
+      "location": "Delta del Po veneto",
+      "theme": "Miglior ristorante di cucina di laguna del Delta del Po veneto",
+      "firstAirDate": "8 gennaio 2019",
+      "special": "Anguilla"
+    },
+    {
+      "location": "Cagliari",
+      "theme": "Miglior ristorante di nuova generazione di Cagliari",
+      "firstAirDate": "15 gennaio 2019",
+      "special": "Fregula"
+    },
+    {
+      "location": "Monferrato",
+      "theme": "Miglior ristorante con menù degustazione del Monferrato",
+      "firstAirDate": "22 gennaio 2019",
+      "special": "Dolce"
+    },
+    {
+      "location": "Castelli Romani",
+      "theme": "Miglior osteria dei Castelli Romani",
+      "firstAirDate": "29 gennaio 2019",
+      "special": "Cacio e pepe"
+    },
+    {
+      "location": "Riviera dei Fiori",
+      "theme": "Miglior ristorante a conduzione familiare della Riviera dei Fiori",
+      "firstAirDate": "5 febbraio 2019",
+      "special": "Brandacujun"
+    },
+    {
+      "location": "Provincia di Cremona",
+      "theme": "Miglior ristorante di cucina di campagna",
+      "firstAirDate": "12 febbraio 2019",
+      "special": "Bollito misto"
+    },
+    {
+      "location": "Hong Kong",
+      "theme": "Miglior ristorante italiano a Hong Kong",
+      "firstAirDate": "24 settembre 2019",
+      "special": "Raviolo"
+    },
+    {
+      "location": "Gargano",
+      "theme": "Miglior ristorante di pesce di Gargano",
+      "firstAirDate": "1º ottobre 2019",
+      "special": "Grigliata"
+    },
+    {
+      "location": "Franciacorta",
+      "theme": "Miglior ristorante con degustazione bollicine",
+      "firstAirDate": "8 ottobre 2019",
+      "special": "Franciacorta"
+    },
+    {
+      "location": "Parco regionale Riviera di Ulisse",
+      "theme": "Miglior ristorante gestito da marito e moglie",
+      "firstAirDate": "15 ottobre 2019",
+      "special": "Alici"
+    },
+    {
+      "location": "Palermo",
+      "theme": "street food",
+      "firstAirDate": "22 ottobre 2019",
+      "special": "Pani câ meusa"
+    },
+    {
+      "location": "Isola d'Elba",
+      "theme": "Miglior ristorante in una baia",
+      "firstAirDate": "29 ottobre 2019",
+      "special": "Cacciucco"
+    },
+    {
+      "location": "Firenze",
+      "theme": "Miglior ristorante storico di Firenze",
+      "firstAirDate": "5 novembre 2019",
+      "special": "Fiorentina"
+    }
+  ],
+  [
+    {
+      "location": "Venezia",
+      "theme": "canali",
+      "firstAirDate": "23 aprile 2020",
+      "special": "Fegato alla veneziana"
+    },
+    {
+      "location": "Valle d'Aosta",
+      "theme": "Miglior ristorante in alta quota della Valle d'Aosta",
+      "firstAirDate": "30 aprile 2020",
+      "special": "Zuppa"
+    },
+    {
+      "location": "Roma",
+      "theme": "Miglior home restaurant di Roma",
+      "firstAirDate": "7 maggio 2020",
+      "special": "Benvenuto"
+    },
+    {
+      "location": "Riviera del Conero",
+      "theme": "Miglior ristorante vista mare della riviera del Conero",
+      "firstAirDate": "14 maggio 2020",
+      "special": "Lumache di mare"
+    },
+    {
+      "location": "Arezzo",
+      "theme": "cucina medioevale",
+      "firstAirDate": "21 maggio 2020",
+      "special": "Fegatelli"
+    },
+    {
+      "location": "Val Badia",
+      "theme": "ladina",
+      "firstAirDate": "28 maggio 2020",
+      "special": "Canederli"
+    },
+    {
+      "location": "Milano",
+      "theme": "brunch",
+      "firstAirDate": "4 giugno 2020",
+      "special": "Uovo"
+    },
+    {
+      "location": "Carnia",
+      "theme": "Friuli Venezia Giulia",
+      "firstAirDate": "11 giugno 2020",
+      "special": "Zucca"
+    },
+    {
+      "location": "Cilento",
+      "theme": "Miglior ristorante con azienda agricola del Cilento",
+      "firstAirDate": "18 giugno 2020",
+      "special": "Antipasto misto"
+    },
+    {
+      "location": "Lunigiana",
+      "theme": "Miglior ristorante in un borgo della Lunigiana",
+      "firstAirDate": "25 giugno 2020",
+      "special": "Sgabei"
+    },
+    {
+      "location": "Milano",
+      "theme": "Miglior ristorante con delivery di Milano",
+      "firstAirDate": "8 dicembre 2020",
+      "special": "<a href=\"#cite_note-60\">[60]</a>"
+    },
+    {
+      "location": "Ciociaria",
+      "theme": "Miglior ristorante per bikers della Ciociaria",
+      "firstAirDate": "15 dicembre 2020",
+      "special": "Abbacchio"
+    },
+    {
+      "location": "Val di Chiana",
+      "theme": "Miglior ristorante con vigneto della Val d'Orcia e della Val di Chiana",
+      "firstAirDate": "22 dicembre 2020",
+      "special": "Pici"
+    },
+    {
+      "location": "Riviera romagnola",
+      "theme": "Miglior ristorante gourmet di uno stabilimento balneare della Riviera romagnola",
+      "firstAirDate": "29 dicembre 2020",
+      "special": "Cozze"
+    }
+  ],
+  [
+    {
+      "location": "Basilicata",
+      "theme": "Miglior ristorante di cucina autentica della Basilicata",
+      "firstAirDate": "5 gennaio 2021",
+      "special": "Salsiccia Lucanica"
+    },
+    {
+      "location": "Bari",
+      "theme": "Miglior ristorante di crudo",
+      "firstAirDate": "12 gennaio 2021",
+      "special": "Tagliatelle di mare"
+    },
+    {
+      "location": "Parma",
+      "theme": "Miglior ristorante-bottega di Parma e provincia",
+      "firstAirDate": "19 gennaio 2021",
+      "special": "Anolini"
+    },
+    {
+      "location": "Milano",
+      "theme": "cucina regionale di Milano",
+      "firstAirDate": "26 gennaio 2021",
+      "special": "Polpette"
+    },
+    {
+      "location": "Trentino",
+      "theme": "Miglior ristorante eco-green del Trentino",
+      "firstAirDate": "5 dicembre 2021",
+      "special": "Salmerino"
+    },
+    {
+      "location": "Astigiano",
+      "theme": "Miglior ristorante in un bricco dell'Astigiano",
+      "firstAirDate": "12 dicembre 2021",
+      "special": "Ravioli del Plin"
+    },
+    {
+      "location": "Siena",
+      "theme": "Miglior ristorante di Selvaggina di Siena",
+      "firstAirDate": "19 dicembre 2021",
+      "special": "Selvaggina"
+    },
+    {
+      "location": "Pantelleria",
+      "theme": "Miglior ristorante di cucina Pantesca",
+      "firstAirDate": "26 dicembre 2021",
+      "special": "Cuscus pantesco"
+    },
+    {
+      "location": "Valpolicella",
+      "theme": "Miglior ristorante in una dimora storica della Valpolicella",
+      "firstAirDate": "2 gennaio 2022",
+      "special": "Brasato"
+    },
+    {
+      "location": "Barbagia",
+      "theme": "Miglior ristorante delle vie dei pastori della Barbagia",
+      "firstAirDate": "9 gennaio 2022",
+      "special": "Pane fratau"
+    },
+    {
+      "location": "Torino",
+      "theme": "Miglior ristopub di Torino",
+      "firstAirDate": "15 maggio 2022",
+      "special": "Irish stew"
+    },
+    {
+      "location": "Alghero",
+      "theme": "Miglior ristorante di cucina sardo-catalana",
+      "firstAirDate": "22 maggio 2022",
+      "special": "Paella algherese"
+    },
+    {
+      "location": "Grado",
+      "theme": "Miglior ristorante di cucina lagunare",
+      "firstAirDate": "29 maggio 2022",
+      "special": "Boreto alla gradese"
+    },
+    {
+      "location": "Termoli",
+      "theme": "costa del Molise",
+      "firstAirDate": "5 giugno 2022",
+      "special": "Polipetti in purgatorio"
+    }
+  ],
+  [
+    {
+      "location": "Verona",
+      "theme": "Miglior ristorante romantico di Verona",
+      "firstAirDate": "12 giugno 2022",
+      "special": "Dolce con cioccolato"
+    },
+    {
+      "location": "Gubbio",
+      "theme": "Miglior ristorante di cucina eugubina",
+      "firstAirDate": "19 giugno 2022",
+      "special": "Friccò"
+    },
+    {
+      "location": "Milano",
+      "theme": "Miglior ristorante di pesce di Milano",
+      "firstAirDate": "26 giugno 2022",
+      "special": "Frittura di pesce"
+    },
+    {
+      "location": "Fuerteventura",
+      "theme": "Miglior ristorante italiano",
+      "firstAirDate": "27 novembre 2022",
+      "special": "Piatto con Queso Majorero"
+    },
+    {
+      "location": "Livorno",
+      "theme": "Miglior ristorante del quartiere Venezia di Livorno",
+      "firstAirDate": "4 dicembre 2022",
+      "special": "Cacciucco"
+    },
+    {
+      "location": "Colli Bolognesi",
+      "theme": "Miglior ristorante per una fuga sui Colli Bolognesi",
+      "firstAirDate": "11 dicembre 2022",
+      "special": "Tortellone"
+    },
+    {
+      "location": "Edimburgo",
+      "theme": "Miglior ristorante italiano a Edimburgo",
+      "firstAirDate": "18 dicembre 2022",
+      "special": "Tiramisù"
+    },
+    {
+      "location": "Napoli",
+      "theme": "Miglior ristorante sul lungomare di Napoli",
+      "firstAirDate": "1º gennaio 2023",
+      "special": "Spaghetto alle vongole"
+    },
+    {
+      "location": "Cinque Terre",
+      "theme": "Parco nazionale delle Cinque Terre",
+      "firstAirDate": "8 gennaio 2023",
+      "special": "acciughe"
+    },
+    {
+      "location": "Udine",
+      "theme": "Miglior ristorante in una dimora storica di Udine e dintorni",
+      "firstAirDate": "15 gennaio 2023",
+      "special": "Cjarsons"
+    },
+    {
+      "location": "Siracusa",
+      "theme": "Miglior ristorante tra innovazione e tradizione di Ortigia",
+      "firstAirDate": "22 gennaio 2023",
+      "special": "Caponata"
+    },
+    {
+      "location": "Lecce",
+      "theme": "Miglior ristorante nel centro storico di Lecce",
+      "firstAirDate": "29 gennaio 2023",
+      "special": "Macco di fave"
+    },
+    {
+      "location": "Roma",
+      "theme": "Pigneto",
+      "firstAirDate": "5 febbraio 2023",
+      "special": "Amatriciana"
+    },
+    {
+      "location": "Milano",
+      "theme": "Miglior trattoria di Milano",
+      "firstAirDate": "12 febbraio 2023",
+      "special": "Ossobuco"
+    }
+  ],
+  [
+    {
+      "location": "Bassano del Grappa",
+      "theme": "Miglior ristorante storico di Bassano del Grappa",
+      "firstAirDate": "3 settembre 2023",
+      "special": "Asparago"
+    },
+    {
+      "location": "Umbria",
+      "theme": "Miglior ristorante sulla via dell'olio umbra",
+      "firstAirDate": "10 settembre 2023",
+      "special": "Olio"
+    },
+    {
+      "location": "Vibo Valentia",
+      "theme": "costa degli Dei",
+      "firstAirDate": "17 settembre 2023",
+      "special": "Cipolla di Tropea"
+    },
+    {
+      "location": "Ascoli Piceno",
+      "theme": "Miglior ristorante moderno di Ascoli Piceno",
+      "firstAirDate": "24 settembre 2023",
+      "special": "Fritto misto all'ascolana"
+    },
+    {
+      "location": "Irpinia",
+      "theme": "Miglior ristorante di cucina irpina",
+      "firstAirDate": "1º ottobre 2023",
+      "special": "Maccaronara"
+    },
+    {
+      "location": "Costa Azzurra",
+      "theme": "Miglior ristorante italiano sulla Costa Azzurra",
+      "firstAirDate": "17 dicembre 2023",
+      "special": "Pasta allo scoglio"
+    },
+    {
+      "location": "Oltrepò Pavese",
+      "theme": "Miglior ristorante dell'Oltrepò Pavese",
+      "firstAirDate": "24 dicembre 2023",
+      "special": "Risotto con pasta di salame e Bonarda"
+    },
+    {
+      "location": "Lisbona",
+      "theme": "Miglior ristorante italiano nel centro di Lisbona",
+      "firstAirDate": "31 dicembre 2023",
+      "special": "Baccalà"
+    },
+    {
+      "location": "Ravenna",
+      "theme": "Miglior ristorante nel centro storico di Ravenna",
+      "firstAirDate": "7 gennaio 2024",
+      "special": "Cappelletti"
+    },
+    {
+      "location": "Sardegna",
+      "theme": "Ogliastra",
+      "firstAirDate": "14 gennaio 2024",
+      "special": "Culurgiones"
+    },
+    {
+      "location": "Gorizia",
+      "theme": "Miglior ristorante di Gorizia e suoi confini",
+      "firstAirDate": "21 gennaio 2024",
+      "special": "Gulasch"
+    },
+    {
+      "location": "Lucca",
+      "theme": "Miglior osteria di Lucca",
+      "firstAirDate": "28 gennaio 2024",
+      "special": "Zuppa frantoiana"
+    },
+    {
+      "location": "Monza",
+      "theme": "Miglior ristorante chic di Monza",
+      "firstAirDate": "4 febbraio 2024",
+      "special": "Risotto alla monzese"
+    },
+    {
+      "location": "Mantova",
+      "theme": "Miglior ristorante contemporaneo di Mantova",
+      "firstAirDate": "11 febbraio 2024",
+      "special": "Tortelli di zucca"
+    }
+  ],
+  [
+    {
+      "location": "Calabria",
+      "theme": "Miglior ristorante di cucina piccante della Calabria",
+      "firstAirDate": "Le Ricchezze Del Mare, L'Aragonese, Agriturismo Petrara, Ristorante da Aquino",
+      "special": "1º giugno 2017"
+    },
+    {
+      "location": "Versilia",
+      "theme": "Miglior ristorante di uno stabilimento balneare della Versilia",
+      "firstAirDate": "Zara Mare, Caffè Godot, Bagno 90º minuto, Bistrot sul mare",
+      "special": "8 giugno 2017"
+    },
+    {
+      "location": "Sicilia",
+      "theme": "Val di Noto",
+      "firstAirDate": "Osteria dei Sapori Perduti, Mercato di Ispica, Sale e Pepe, Konza",
+      "special": "15 giugno 2017"
+    },
+    {
+      "location": "Cascine Milanesi",
+      "theme": "Miglior cascina fuori porta",
+      "firstAirDate": "Agriturismo La Barcella, Cascina Caremma, Cascina Ovi, Cascina Sant'Ambrogio",
+      "special": "22 giugno 2017"
+    },
+    {
+      "location": "Roma",
+      "theme": "Miglior osteria a conduzione famigliare di Roma",
+      "firstAirDate": "Lo Scopettaro, Sora Lella, Trattoria da Danilo, Ba' Ghetto",
+      "special": "29 giugno 2017"
+    },
+    {
+      "location": "Lago Maggiore",
+      "theme": "Miglior ristorante con vista sul Lago Maggiore",
+      "firstAirDate": "Mirafiori e La Terrazza, Villa Pizzini, La Ripa, Nautica",
+      "special": "6 luglio 2017"
+    },
+    {
+      "location": "Val d'Itria",
+      "theme": "trullo",
+      "firstAirDate": "Trullo d'Oro, Fè Ristorante, Evo, Trulli panoramici",
+      "special": "13 luglio 2017"
+    },
+    {
+      "location": "Barcellona",
+      "theme": "tapas",
+      "firstAirDate": "Bacaro, Due Spaghi, Blau, Laz Laz",
+      "special": "20 luglio 2017"
+    }
+  ],
+  [
+    {
+      "location": "Umbria",
+      "theme": "Miglior enoteca gastronomica dell'Umbria",
+      "firstAirDate": "21 giugno 2018",
+      "special": "Crostino"
+    },
+    {
+      "location": "Lago di Como",
+      "theme": "Miglior ristorante in una location storica del lago di Como",
+      "firstAirDate": "28 giugno 2018",
+      "special": "Pesce di lago"
+    },
+    {
+      "location": "Penisola sorrentina",
+      "theme": "Miglior ristorante di mare e di terra della Penisola sorrentina",
+      "firstAirDate": "5 luglio 2018",
+      "special": "Pomodoro"
+    },
+    {
+      "location": "Padova",
+      "theme": "Miglior ristorante con bar di Padova",
+      "firstAirDate": "12 luglio 2018",
+      "special": "Cicchetti"
+    },
+    {
+      "location": "Sardegna",
+      "theme": "Miglior ristorante da vacanza del sud della Sardegna",
+      "firstAirDate": "19 luglio 2018",
+      "special": "Frittura"
+    },
+    {
+      "location": "Parco del Pollino",
+      "theme": "Miglior ristorante di cucina contadina del Parco del Pollino",
+      "firstAirDate": "26 luglio 2018",
+      "special": "Peperone crusco"
+    }
+  ]
+]
