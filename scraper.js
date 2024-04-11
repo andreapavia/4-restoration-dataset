@@ -6,7 +6,7 @@
 const scrape = () => {
   const BONUS_SEASON_START_INDEX = 3
 
-  const downloadJson = ({ content }) => {
+  const downloadJson = (content) => {
     const a = document.createElement('a')
     const file = new Blob([content], { type: 'text/plain' })
     a.href = URL.createObjectURL(file)
@@ -55,7 +55,7 @@ const scrape = () => {
     return parseRows(rows.slice(1), i)
   })
 
-  downloadJson({ content: JSON.stringify(data) })
+  downloadJson(JSON.stringify(data))
 }
 
 export {
