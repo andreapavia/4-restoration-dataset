@@ -17,8 +17,10 @@ const scrape = () => {
   const getCleanHtmlFromNode = (node) => {
     if (!node) return
 
+    const filteredChildren = Array.from(node.children).filter(n => n.tagName !== 'sup')
+
     return (
-      node.children?.length
+      filteredChildren.length
         ? node.children[0].innerHTML
         : node.innerHTML
     ).replace('\n', '')
@@ -27,12 +29,16 @@ const scrape = () => {
   const parseRows = (rows, i) => {
     return rows.map(row => {
       const children = Array.from(row.children)
+      const isFirstTV8AirDateRow = i === rows.length - 1
+      const isBonusRow = i >= BONUS_SEASON_START_INDEX || isFirstTV8AirDateRow
 
       return ({
         location: getCleanHtmlFromNode(children[1]),
         theme: getCleanHtmlFromNode(children[2]),
-        firstAirDate: getCleanHtmlFromNode(i < BONUS_SEASON_START_INDEX ? children[3] : children[4]),
-        special: getCleanHtmlFromNode(i >= BONUS_SEASON_START_INDEX ? (children[3]) : undefined)
+        firstAirDate: getCleanHtmlFromNode(!isBonusRow ? children[3] : children[4]),
+        special: getCleanHtmlFromNode(isBonusRow ? (children[3]) : undefined),
+        participants: getCleanHtmlFromNode(!isBonusRow ? children[4] : children[5]),
+        winner: getCleanHtmlFromNode(!isBonusRow ? children[5] : children[6])
       })
     })
   }
