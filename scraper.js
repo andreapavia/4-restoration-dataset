@@ -14,7 +14,8 @@ const scrape = () => {
     a.click()
   }
 
-  const getCleanHtmlFromNode = (node) => {
+  // TODO rename: this does not return HTML but parses HTML into a string
+  const parseHtmlFromNode = (node) => {
     if (!node) return
 
     const filteredChildren = Array.from(node.children).filter(n => n.tagName !== 'sup')
@@ -26,19 +27,38 @@ const scrape = () => {
     ).replace('\n', '')
   }
 
+  const getParticipantsIndex = (index, rowsLength) => {
+    if (index === rowsLength - 1) return 6
+
+    return index >= BONUS_SEASON_START_INDEX ? 5 : 4
+  }
+
+  const parseParticipants = (participantsData) => {
+    console.log(participantsData)
+
+    return []
+  }
+
   const parseRows = (rows, i) => {
     return rows.map(row => {
       const children = Array.from(row.children)
       const isFirstTV8AirDateRow = i === rows.length - 1
       const isBonusRow = i >= BONUS_SEASON_START_INDEX || isFirstTV8AirDateRow
 
+      const participants = parseParticipants(
+        parseHtmlFromNode(
+          children[getParticipantsIndex(i, rows.length)],
+          true
+        )
+      )
+
       return ({
-        location: getCleanHtmlFromNode(children[1]),
-        theme: getCleanHtmlFromNode(children[2]),
-        firstAirDate: getCleanHtmlFromNode(!isBonusRow ? children[3] : children[4]),
-        special: getCleanHtmlFromNode(isBonusRow ? (children[3]) : undefined),
-        participants: getCleanHtmlFromNode(!isBonusRow ? children[4] : children[5]),
-        winner: getCleanHtmlFromNode(!isBonusRow ? children[5] : children[6])
+        location: parseHtmlFromNode(children[1]),
+        theme: parseHtmlFromNode(children[2]),
+        firstAirDate: parseHtmlFromNode(!isBonusRow ? children[3] : children[4]),
+        special: parseHtmlFromNode(isBonusRow ? (children[3]) : undefined),
+        participants,
+        winner: parseHtmlFromNode(!isBonusRow ? children[5] : children[6])
       })
     })
   }
