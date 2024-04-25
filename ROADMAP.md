@@ -10,7 +10,7 @@ A small roadmap for me, the author, to not forget about all the stuff I want to 
 🟢 done item
 
 
-- 🔵 add HTML resource file
+- 🟢 add HTML resource file
 - 🟣 hook scrape logic to local HTML resource file
 - 🔵 write result to local JSON instead of downloading
 - 🟢 add basic folder structure
