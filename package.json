@@ -4,10 +4,21 @@
   "description": "4 Restoration is a small data manipulation and visualization project, which data comes from an italian TV cooking show",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "npx tsc && node dist/index.js"
   },
   "author": "Andrea Francesco Pavia <a.pavia95@gmail.com>",
   "dependencies": {
     "jsdom": "^24.0.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.6",
+    "@types/node": "^20.12.7",
+    "@typescript-eslint/eslint-plugin": "^7.8.0",
+    "@typescript-eslint/parser": "^7.8.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.5",
+    "prettier-config-standard": "^7.0.0",
+    "typescript": "^5.4.5"
   }
 }

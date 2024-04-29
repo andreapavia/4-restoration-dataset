@@ -1,8 +1,8 @@
-const { parseRows } = require('./parse-rows')
-const { saveJson } = require('./save-json')
+import { parseRows } from './parse-rows'
+import { saveJson } from './save-json'
 
 const scrape = (document) => {
-  const headers = [...document.querySelectorAll('th')].filter(h => {
+  const headers = [...document.querySelectorAll('th')].filter((h) => {
     return h.innerHTML.indexOf('Location') > -1
   })
 
@@ -17,6 +17,4 @@ const scrape = (document) => {
   saveJson('./4-restoration-dataset.json', JSON.stringify(data))
 }
 
-module.exports = {
-  scrape
-}
+export { scrape }

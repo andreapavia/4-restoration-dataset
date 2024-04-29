@@ -1,11 +1,9 @@
-const fs = require('fs')
+import { writeFile } from 'fs'
 
 const saveJson = (path, json) => {
-  fs.writeFile(path, json, 'utf8', () => {
+  writeFile(path, json, 'utf8', () => {
     console.log('JSON saved.')
   })
 }
 
-module.exports = {
-  saveJson
-}
+export { saveJson }

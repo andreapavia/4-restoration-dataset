@@ -4,6 +4,4 @@ const parseParticipants = (participantsData) => {
   return []
 }
 
-module.exports = {
-  parseParticipants
-}
+export { parseParticipants }
