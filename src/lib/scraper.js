@@ -1,4 +1,5 @@
 const { parseRows } = require('./parse-rows')
+const { saveJson } = require('./save-json')
 
 const scrape = (document) => {
   const headers = [...document.querySelectorAll('th')].filter(h => {
@@ -13,7 +14,7 @@ const scrape = (document) => {
     return parseRows(rows.slice(1), i)
   })
 
-  console.log(JSON.stringify(data))
+  saveJson('./4-restoration-dataset.json', JSON.stringify(data))
 }
 
 module.exports = {
