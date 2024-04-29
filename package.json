@@ -1,0 +1,13 @@
+{
+  "name": "4-restoration-dataset",
+  "version": "0.1.0",
+  "description": "4 Restoration is a small data manipulation and visualization project, which data comes from an italian TV cooking show",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Andrea Francesco Pavia <a.pavia95@gmail.com>",
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}

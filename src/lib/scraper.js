@@ -1,6 +1,6 @@
-const parseRows = require('./parse-rows')
+const { parseRows } = require('./parse-rows')
 
-const scrape = () => {
+const scrape = (document) => {
   const headers = [...document.querySelectorAll('th')].filter(h => {
     return h.innerHTML.indexOf('Location') > -1
   })
