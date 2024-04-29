@@ -1,5 +1,5 @@
 // browser download
-const downloadJson = (content) => {
+const downloadJson = (document, content) => {
   const a = document.createElement('a')
   const file = new Blob([content], { type: 'text/plain' })
   a.href = URL.createObjectURL(file)
@@ -7,6 +7,4 @@ const downloadJson = (content) => {
   a.click()
 }
 
-module.exports = {
-  downloadJson
-}
+export { downloadJson }
