@@ -1,8 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const jsdom = require('jsdom')
-const { JSDOM } = jsdom
-
+const { JSDOM } = require('jsdom')
 const { scrape } = require('./src/lib/scraper')
 
 const filePath = path.join(__dirname, '4-ristoranti.html')
