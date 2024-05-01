@@ -4,7 +4,8 @@
   "description": "4 Restoration is a small data manipulation and visualization project, which data comes from an italian TV cooking show",
   "main": "index.js",
   "scripts": {
-    "start": "npx tsc && node dist/index.js"
+    "start": "npx tsc && node dist/index.js",
+    "lint": "eslint"
   },
   "author": "Andrea Francesco Pavia <a.pavia95@gmail.com>",
   "dependencies": {
